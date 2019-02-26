@@ -10,7 +10,7 @@ int main(void) {
   
   printf("How much do you need? Enter amount x.xx.\n");
   scanf("%lf", &initial_amount);
-  printf("Newsom Bank will dispense $%0.2lf.\n", initial_amount);
+  printf("Your bank will dispense $%0.2lf.\n", initial_amount);
   
   //equations 
   
