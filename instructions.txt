@@ -1,0 +1,9 @@
+type in "States.csv" when prompted for a file name to test results.
+
+NOTE: when it reads the file, it splits on comma and "skips" the first line
+
+To test with other csv files, each line must be ordered: <state name>,<capital>,<abbreviation>,<population>,<region>,<number of House Seats>
+
+****All files should be in same folder!!***
+
+type "python main.py" to run the program
